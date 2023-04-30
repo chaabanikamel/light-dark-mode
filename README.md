@@ -1,3 +1,3 @@
 # ---template-light-dark-mode 
 ## PinguCoder
-`Use This Template with Zero configuration `
+you can view a live version [here](https://github.com/chaabanikamel/light-dark-mode.git)
